@@ -1,0 +1,30 @@
+#top_text{
+    background-color:orange;
+    float:none;
+    border-radius:20px;
+    box-shadow:5px 5px 5px orange;
+    padding-top:1px;
+    color:black;
+    text-align:center;
+}
+canvas{
+    border:5px dashed black;
+    border-radius:20px;
+    box-shadow:5px 5px 5px black;
+    margin-top:100px;
+}
+#footer{
+    background-color:orange;
+    float:none;
+  
+
+    padding-top:1px;
+    color:black;
+    text-align:center;
+    bottom:0;
+    position:fixed
+}
+#gif{
+    padding-top:150px;
+    padding-left:800px;
+}
